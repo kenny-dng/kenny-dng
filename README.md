@@ -1,14 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20Kenny%20!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldxdz29000110fl11yicbsj4/stats?cursusId=21&coalitionId=45" alt="chduong's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><center>
+  <img src="https://badge42.vercel.app/api/v2/cldxdz29000110fl11yicbsj4/stats?cursusId=21&coalitionId=45" alt="chduong's 42 stats"/>
+  </center></a>
 
 🌱 I am a student developer studying in **42Paris**.
 
 🙈 I am interested in `Web design`, `Mobile app`, `AI`!
-
----
-
-**👷 Skills**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
