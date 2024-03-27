@@ -13,10 +13,10 @@
 
 ## 📟 GitHub Stats  
 <p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=chduong42&show_icons=true&theme=dark" />
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="41.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chduong42&layout=compact&theme=dark" /></a>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=kenny-dng&show_icons=true&theme=dark" />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="41.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenny-dng&layout=compact&theme=dark" /></a>
 </p>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=ethan0905&theme=highcontrast&date_format=j%20M%5B%20Y%5D"></a>
+<a href="https://git.io/streak-stats"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=kenny-dng&theme=highcontrast&date_format=j%20M%5B%20Y%5D"></a>
 </p>
