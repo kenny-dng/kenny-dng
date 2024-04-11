@@ -1,11 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20Kenny%20!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
-
-👨🏻‍💻 I am a fullstack developer and Sotfware Engineer 
-
-🎓 I have studied in **42Paris**.
-
-💻 I am interested in `Web design`, `Mobile app`, `AI`!
-
 ## :bar_chart: 42 Stats
 <p align="center"><a href="https://github.com/JaeSeoKim/badge42" ><img src="https://badge42.vercel.app/api/v2/cldxdz29000110fl11yicbsj4/stats?cursusId=21&coalitionId=45" alt="chduong's 42 stats" /></a></p>
 
