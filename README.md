@@ -6,6 +6,9 @@
 ## 📟 GitHub Stats  
 <p align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=kenny-dng&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img width="41.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenny-dng&layout=compact&theme=dark" /></a>
 </p>
 
